@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38a911f3-4fe2-4c91-8050-9b68317acda6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1vQrfXQinmNhurRzxUEFQdGvyjE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SSS\Desktop\小鸟录制" />
+      <recent name="C:\Users\SSS\Desktop\小鸟录制\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bird.main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GameApp">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bird.app.GameApp" />
+      <module name="bird" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bird.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bird.util.a" />
+      <module name="bird" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bird.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="as" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bird.util.as" />
+      <module name="bird" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bird.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameApp" />
+        <item itemvalue="Application.as" />
+        <item itemvalue="Application.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38a911f3-4fe2-4c91-8050-9b68317acda6" name="Default Changelist" comment="" />
+      <created>1626505258601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626505258601</updated>
+      <workItem from="1626505260284" duration="1855000" />
+      <workItem from="1626509611293" duration="391000" />
+      <workItem from="1626514897734" duration="3143000" />
+      <workItem from="1626741086475" duration="6188000" />
+      <workItem from="1626760531090" duration="4122000" />
+      <workItem from="1626828064496" duration="6823000" />
+      <workItem from="1626854612828" duration="1619000" />
+      <workItem from="1626919109887" duration="2731000" />
+      <workItem from="1626943742615" duration="4197000" />
+      <workItem from="1627000337627" duration="7883000" />
+      <workItem from="1627086884690" duration="8416000" />
+      <workItem from="1627110701697" duration="3576000" />
+      <workItem from="1627259815516" duration="3930000" />
+      <workItem from="1627266544078" duration="1615000" />
+      <workItem from="1627285769443" duration="4778000" />
+      <workItem from="1627346152707" duration="1960000" />
+      <workItem from="1627365367840" duration="4404000" />
+      <workItem from="1627433270903" duration="6224000" />
+      <workItem from="1627451818670" duration="2877000" />
+      <workItem from="1627518665119" duration="2758000" />
+      <workItem from="1627538304865" duration="4287000" />
+      <workItem from="1627605139605" duration="8072000" />
+      <workItem from="1627625006047" duration="4699000" />
+      <workItem from="1627692216089" duration="3168000" />
+      <workItem from="1653181055318" duration="443000" />
+      <workItem from="1653181919027" duration="36000" />
+      <workItem from="1653182656087" duration="25287000" />
+      <workItem from="1653277140880" duration="320000" />
+      <workItem from="1653277524762" duration="49000" />
+      <workItem from="1653277765032" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
